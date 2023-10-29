@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576897811959",
+    "project_id": "fitness-app-e10cd",
+    "storage_bucket": "fitness-app-e10cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576897811959:android:af556a74a0f62ffe1a1af2",
+        "android_client_info": {
+          "package_name": "com.thebeastapplications.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyFzi3C-_ZOQ0QLk4X6gDm74EEfYHDm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
